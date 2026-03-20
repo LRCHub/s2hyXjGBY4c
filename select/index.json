@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "base_track": "W/X/Y",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2026-03-20T12:39:16.387339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "K.G.L.W.",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_K.G.L.W._King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don't Need Your Rockin' Chair - Version w/special guests",
+      "artist": "Mark Chesnutt, George Jones, Vince Gill, Patty Loveless, Garth Brooks, Clint Black, Alan Jackson, Travis Tritt, Joe Diffie, Pam Tillis & T. Graham Brown",
+      "has_synced": true,
+      "path": "select/02_I_Don't_Need_Your_Rockin'_Chair_-_Version_w_special_guests_Mark_Chesnutt,_George_Jones,_Vince_Gill,_Patty_Loveless,_Garth_Brooks,_Clint_Bla.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Need Your Rockin' Chair (Version  w/special guests)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/03_I_Don't_Need_Your_Rockin'_Chair_(Version_w_special_guests)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dancing In The Street (w\u0000 Mick Jagger)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Dancing_In_The_Street_(w\u0000_Mick_Jagger)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Is Not America (w\u0000 The Pat Metheny Group)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_This_Is_Not_America_(w\u0000_The_Pat_Metheny_Group)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Under Pressure (w\u0000 Queen)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Under_Pressure_(w\u0000_Queen)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "W.T.P.",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/07_W.T.P._Eminem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bae City Rollaz (w\u0000ИΔΤVИ)",
+      "artist": "YUNG BAE",
+      "has_synced": true,
+      "path": "select/08_Bae_City_Rollaz_(w\u0000ИΔΤVИ)_YUNG_BAE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "i d w c u Ft. Bradyamour",
+      "artist": "LiL Lotus feat. Nedarb & Bradyamour",
+      "has_synced": true,
+      "path": "select/09_i_d_w_c_u_Ft._Bradyamour_LiL_Lotus_feat._Nedarb_&_Bradyamour.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "i d w c u (feat. Bradyamour)",
+      "artist": "Lil Lotus",
+      "has_synced": true,
+      "path": "select/10_i_d_w_c_u_(feat._Bradyamour)_Lil_Lotus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I.D.W.G.T.",
+      "artist": "Lil Zubin",
+      "has_synced": true,
+      "path": "select/11_I.D.W.G.T._Lil_Zubin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "GREED w/ Standing on The Corner",
+      "artist": "MIKE",
+      "has_synced": false,
+      "path": "select/12_GREED_w__Standing_on_The_Corner_MIKE.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Like My Mama w/ Navy Blue",
+      "artist": "MIKE",
+      "has_synced": false,
+      "path": "select/13_Like_My_Mama_w__Navy_Blue_MIKE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "P.O.W.A",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/14_P.O.W.A_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "S.W.I.M.",
+      "artist": "Midwife",
+      "has_synced": false,
+      "path": "select/15_S.W.I.M._Midwife.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "W.A.B",
+      "artist": "Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/16_W.A.B_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "W / X / Y",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_W___X___Y_Tani_Yuuki.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "W/X/Y",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/localdb_01_W_X_Y_Tani_Yuuki.txt",
+      "repo_name": "p4UXw5r49eA"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "W/X/Y",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/localdb_02_W_X_Y_Tani_Yuuki.txt",
+      "repo_name": "mp2-w15SXms"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "W/X/Y",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/localdb_03_W_X_Y_Tani_Yuuki.txt",
+      "repo_name": "aZm92Iv4l1c"
+    }
+  ]
+}
